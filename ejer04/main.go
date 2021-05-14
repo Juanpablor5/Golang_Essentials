@@ -1,4 +1,4 @@
-package maun
+package main
 
 import (
 	"fmt"
